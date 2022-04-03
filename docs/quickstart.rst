@@ -21,19 +21,19 @@ Windows
 Linux
 ^^^^^
 
-Tested under lubuntu 20.04LTS
+Tested under lubuntu 20.04LTS::
 
-$ sudo apt-get install minetest fonts-crosextra-caladea fonts-crosextra-carlito minetest-mod-moreblocks minetest-mod-moreores minetest-mod-pipeworks minetest-server minetestmapper
+  $ sudo apt-get install minetest fonts-crosextra-caladea fonts-crosextra-carlito minetest-mod-moreblocks minetest-mod-moreores minetest-mod-pipeworks minetest-server minetestmapper
 
-$ sudo apt-get install luajit lua-socket lua-cjson idle3 python3-pip
+  $ sudo apt-get install luajit lua-socket lua-cjson idle3 python3-pip
 
-$ pip3 install miney
+  $ pip3 install miney
 
-Then install the mineysocket mod in minetest
+Then install the mineysocket mod in minetest::
 
-$ cd ~/.minetest/mods
+  $ cd ~/.minetest/mods
 
-$ git clone https://github.com/miney-py/mineysocket.git
+  $ git clone https://github.com/miney-py/mineysocket.git
 
 Don't forget to enable the mods in the configuration tab for your new game!
 
